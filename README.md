@@ -14,12 +14,13 @@ Input: Home team, Away team, Tournament type (World cup, Friendly, Other)
 
 What to train given:
 
-Rank of home team
-Rank of away team
-Tournament type
-Model 1: Predict how many goals the home team scores.
+- Rank of home team
+- Rank of away team
 
-Model 2: Predict how many goals the away team scores.
+Tournament type
+- Model 1: Predict how many goals the home team scores.
+
+- Model 2: Predict how many goals the away team scores.
 
 # Approach 2: Logistic approach
 
